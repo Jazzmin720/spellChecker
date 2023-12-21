@@ -1,0 +1,10 @@
+
+Ths is a smple text file with some misspelled wrds.
+It is used for testng the spell checker functonality.
+Here are sme more wrds that are spelt incrorrectly:
+- Enviroment (should be Environment)
+- Occured (should be Occurred)
+- Recieve (should be Receive)
+- Seperate (should be Separate)
+- Goverment (should be Government)
+- Definately (should be Definitely)
